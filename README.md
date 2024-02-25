@@ -22,3 +22,5 @@ This drum kit application allows users to play different drum sounds by either c
 - HTML5
 - CSS3
 - JavaScript
+
+![dk](https://github.com/beyzaokten/Drum-Kit/assets/95380183/96aaaab9-3120-4ac3-9130-6584070e8374)
